@@ -1,3 +1,6 @@
+''' If conditions demo '''
+
+
 a=["salma",1,2,3,4,5.5,6,7]
 b=5
 c=7
@@ -21,6 +24,7 @@ elif 8 in a and c is 7 or c is 8:
     print("in fourth elif")
 else:
     print(False)
+
 
 
 
