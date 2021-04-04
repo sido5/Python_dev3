@@ -1,4 +1,4 @@
-''' If conditions demo '''
+''' If conditions demo2 '''
 
 
 a=["salma",1,2,3,4,5.5,6,7]
