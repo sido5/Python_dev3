@@ -1,3 +1,3 @@
 '''doc string'''
 ''' empty '''
-''' empty2 '''
+''' empty '''
