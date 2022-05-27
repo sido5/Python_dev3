@@ -7,5 +7,7 @@ try:
         raise AssertionError("not found!")
     elif status_code == 500:
         raise AssertionError("internal server error")
+    else:
+        raise AssertionError("Invalid response code")
 except AssertionError as e:
     print(e)
