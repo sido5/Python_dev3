@@ -8,4 +8,4 @@ try:
     elif status_code == 500:
         raise AssertionError("internal server error")
 except AssertionError as e:
-    print(e)
+    print("exception is ",e)
