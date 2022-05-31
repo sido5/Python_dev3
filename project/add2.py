@@ -9,3 +9,9 @@ var2= 20
 res=add(var1,var2)
 print("result=",res)    
 
+
+print("trying to stash")
+print("trying stash")
+
+print("non stashed data")
+print("no stash")
