@@ -10,4 +10,4 @@ try:
     else:
         raise AssertionError("Invalid response code")
 except AssertionError as e:
-    print(e)
+    print("exception is ",e)
